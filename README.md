@@ -8,6 +8,7 @@ This repository holds the updated code for each arduino project on the Arduino P
 - A binary counter
 - A music speaker that plays a Mario song on repeat
 - A touch activated lightboard
+- A pressure sensor that controls the speed of a motor
 
 and more once other group members put in their code (-_-)
 
